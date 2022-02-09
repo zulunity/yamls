@@ -1,0 +1,1 @@
+```kubectl run curlpod --image=radial/busyboxplus:curl -i --tty --rm```
